@@ -1,0 +1,50 @@
+ a{
+     color:black;
+ }
+ul{
+    vertical-align: middle;
+    margin-left: 240px;
+    margin-top: 100px;
+}
+li{
+    color: silver;
+    vertical-align:middle ;
+    display: inline;
+    margin: 60px;
+
+}
+.section{
+    display: inline-block;
+    width: 70%;
+    margin-left: 270px;
+}
+
+.article{
+    
+    display: inline-table;
+    width: 420px;
+    padding: 20px;
+
+}
+p{
+  font-size:small;
+  font-weight: 20 ;
+  color:silver;
+   
+}
+h2{1
+    font-weight: 400;
+
+}
+h3{
+    font-size: 15px;
+    font-weight: 200;
+    width: 300px;
+
+}
+div{
+    display: block;
+    margin-left: auto;
+    padding: 0px;
+    width: 55%;
+}
